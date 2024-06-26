@@ -1,12 +1,16 @@
 Credit-Card-Financial-Dashboard
+
+
 This is an interactive Power BI dashboard built for Weekly Credit Card Transaction analysis and Credit Card Customer analysis through CSV files to provide insights.
 
 Steps
+
 CSV file import
 Use of DAX functions SUM, FILTER, ALL, MAX to find Previous, Current week revenue. SWITCH function used to create a calculated column based on Income Group.
 
 
 Visulaizations used
+
 Line Chart: Used to find Revenue by week, also to increase granularity of data through drill through.
 Card: Used to determine KPIs like Total Revenue, Interest Amount, Transaction amount, Total income, Customer satisfaction score.
 Treemap: Used to break data into Quarters, Genders, Card Category.
@@ -18,6 +22,8 @@ Bookmark Navigation: A separate "Insights" page is used. Bookmarks are incorpora
 
 
 Insights
+
+
 Male customers are contributing more in revenue 30M, Female 25M
 High income level customers contribute to 52% of Total revenue
 Blue and Silver cards are generating 93% of overall transactions
