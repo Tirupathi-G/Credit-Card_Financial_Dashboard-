@@ -1,9 +1,9 @@
-Credit-Card-Financial-Dashboard
+**Credit-Card-Financial-Dashboard**
 
 
 This is an interactive Power BI dashboard built for Weekly Credit Card Transaction analysis and Credit Card Customer analysis through CSV files to provide insights.
 
-Steps
+**Steps**
 
 CSV file import
 Use of DAX functions SUM, FILTER, ALL, MAX to find Previous, Current week revenue. SWITCH function used to create a calculated column based on Income Group.
